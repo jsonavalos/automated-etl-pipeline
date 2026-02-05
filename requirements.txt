@@ -1,0 +1,4 @@
+pandas>=2.0.0
+simple-justwatch-python-api
+git+https://github.com/alberanid/imdbpy
+papermill
