@@ -1,0 +1,51 @@
+title,year,rating,genres,runtime,director,budget,imdb_id
+A Complete Unknown,2024,7.3,"['Biography', 'Drama', 'Music']",['141'],"['James Mangold', 'Yesi Ramirez']",,11563598
+Nickel Boys,2024,6.9,['Drama'],['140'],"['RaMell Ross', 'Victoria Thomas']",,23055660
+I'm Still Here,2024,8.1,"['Biography', 'Drama', 'History']",['137'],"['Walter Salles', 'Leticia Naveira']",,14961016
+In the Shadow of the Cypress,2023,7.0,"['Animation', 'Short', 'Drama', 'War']",['20'],"['Hossein Molayemi', 'Shirin Sohani']",,28768883
+The Substance,2024,7.2,"['Drama', 'Horror', 'Sci-Fi']","['141', '139']","['Coralie Fargeat', 'Laure Cochener']",,17526714
+Dune: Part Two,2024,8.4,"['Action', 'Adventure', 'Drama', 'Sci-Fi']",['166'],"['Denis Villeneuve', 'Francine Maisler']",,15239678
+Beurk !,2024,6.7,"['Animation', 'Short', 'Family']",['13'],"['Loïc Espuche', 'Florian Delhormeau']",,28356173
+Beautiful Men,2023,6.0,"['Animation', 'Short', 'Comedy', 'Drama']",['19'],['Nicolas Keppens'],,30835281
+Soundtrack to a Coup d'Etat,2024,7.8,"['Documentary', 'Music']",['150'],['Johan Grimonprez'],,14452174
+Magic Candies,2024,7.1,"['Animation', 'Short', 'Family', 'Fantasy']",['20'],['Daisuke Nishio'],,31888603
+Wallace & Gromit: Vengeance Most Fowl,2024,7.5,"['Animation', 'Adventure', 'Comedy', 'Family', 'Sci-Fi']",['82'],"['Merlin Crossingham', 'Nick Park', 'Lucy Rands']",,17163970
+Memoir of a Snail,2024,7.8,"['Animation', 'Drama']",['95'],"['Adam Elliot', 'Jane Norris']",,23770030
+Sugarcane,2024,7.0,['Documentary'],['107'],"['Emily Kassie', 'Julian Brave NoiseCat']",,30319854
+Flow,2024,7.9,"['Animation', 'Adventure', 'Family', 'Fantasy']",['85'],['Gints Zilbalodis'],,4772188
+Anuja,2024,6.6,"['Short', 'Drama']",['22'],"['Adam J. Graves', 'Romil Modi']",,27654431
+Better Man,2024,7.5,"['Biography', 'Fantasy', 'Music', 'Musical']",['135'],['Michael Gracey'],,14260836
+The Last Ranger,2024,6.9,"['Short', 'Drama']",['28'],['Cindy Lee'],,15802124
+Gladiator II,2024,6.5,"['Action', 'Adventure', 'Drama']",['148'],"['Ridley Scott', 'Kate Rhodes James']",,9218128
+Kingdom of the Planet of the Apes,2024,6.8,"['Action', 'Adventure', 'Drama', 'Sci-Fi', 'Thriller']",['145'],['Wes Ball'],,11389872
+The Brutalist,2024,7.2,['Drama'],"['216', '201']",['Brady Corbet'],,8999762
+Wander to Wonder,2023,6.7,"['Animation', 'Short', 'Comedy', 'Thriller']",['14'],['Nina Gantz'],,28768679
+Instruments of a Beating Heart,2024,7.0,"['Documentary', 'Short', 'Music']",['23'],['Ema Ryan Yamazaki'],,32280470
+I'm Not a Robot,2023,7.1,"['Short', 'Comedy', 'Drama', 'Fantasy', 'Sci-Fi']",['23'],['Victoria Warmerdam'],,19837932
+The Girl with the Needle,2024,7.5,"['Crime', 'Drama', 'History']","['123', '122', '116']","['Magnus von Horn', 'Tanja Grunwald']",,10236164
+Alien: Romulus,2024,7.1,"['Horror', 'Sci-Fi', 'Thriller']",['119'],['Fede Alvarez'],,18412256
+"I am Ready, Warden",2024,6.7,"['Documentary', 'Short']",['37'],['Smriti Mundhra'],,31556921
+Maria,2024,6.4,"['Biography', 'Drama', 'Music']",['124'],['Pablo Larraín'],,22893404
+Death by Numbers,2024,6.6,"['Documentary', 'Short']",['33'],['Kim A. Snyder'],,33385063
+Anora,2024,7.4,"['Comedy', 'Drama', 'Romance']",['139'],"['Sean Baker', 'Sean Baker']",,28607951
+Sing Sing,2023,7.6,['Drama'],['107'],['Greg Kwedar'],,28479262
+The Man Who Could Not Remain Silent,2024,7.3,"['Short', 'Drama', 'History']",['14'],"['Nebojsa Slijepcevic', 'Hana Hribar']",,20519854
+Emilia Pérez,2024,5.3,"['Crime', 'Drama', 'Musical', 'Thriller']",['132'],['Jacques Audiard'],,20221436
+The Six Triple Eight,2024,6.7,"['Drama', 'History', 'War']",['127'],"['Tyler Perry', 'Kim Coleman']",,24458622
+The Seed of the Sacred Fig,2024,7.5,"['Crime', 'Drama', 'Thriller']",['167'],['Mohammad Rasoulof'],,32178949
+Porcelain War,2024,7.1,"['Documentary', 'War']",['87'],"['Brendan Bellomo', 'Slava Leontyev']",,30294282
+Inside Out 2,2024,7.5,"['Animation', 'Adventure', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Sport']",['96'],['Kelsey Mann'],,22022452
+Black Box Diaries,2024,7.5,"['Documentary', 'Crime']",['102'],"['Shiori Itô', 'Rikiya Takano']",,30227076
+No Other Land,2024,8.2,['Documentary'],['92'],"['Yuval Abraham', 'Basel Adra', 'Hamdan Ballal', 'Rachel Szor']",,30953759
+September 5,2024,7.1,"['Drama', 'History', 'Thriller']",['95'],['Tim Fehlbaum'],,28082769
+Wicked,2024,7.3,"['Fantasy', 'Musical', 'Romance']",['160'],['Jon M. Chu'],,1262426
+A Different Man,2024,6.9,"['Drama', 'Thriller']",['112'],"['Aaron Schimberg', 'Maribeth Fox']",,21097228
+Nosferatu,2024,7.1,"['Fantasy', 'Horror', 'Mystery']","['132', '136']","['Robert Eggers', 'Kharmel Cochrane']",,5040012
+Incident,2023,7.6,"['Documentary', 'Short']",['30'],['Bill Morrison'],,27990245
+The Apprentice,2024,7.1,"['Biography', 'Drama', 'History']",['122'],['Ali Abbasi'],,8368368
+A Lien,2023,7.2,"['Short', 'Drama']",['15'],"['David Cutler-Kreutz', 'Sam Cutler-Kreutz']",,27655666
+Elton John: Never Too Late,2024,6.6,"['Documentary', 'Biography', 'Music']",['102'],"['R.J. Cutler', 'David Furnish']",,20316978
+Conclave,2024,7.4,"['Drama', 'Thriller']",['120'],['Edward Berger'],,20215234
+The Only Girl in the Orchestra,2023,6.6,"['Documentary', 'Short', 'Music']",['34'],"[""Molly O'Brien""]",,29497240
+A Real Pain,2024,7.0,"['Comedy', 'Drama']",['90'],"['Jesse Eisenberg', 'Jessica Kelly']",,21823606
+The Wild Robot,2024,8.2,"['Animation', 'Adventure', 'Family', 'Sci-Fi']",['102'],"['Chris Sanders', 'Christi Soper']",,29623480
