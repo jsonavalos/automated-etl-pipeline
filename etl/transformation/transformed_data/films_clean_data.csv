@@ -1,0 +1,104 @@
+title,year,rating,genres,runtime,director,imdb_id,rating_out_of_range,runtime_suspicious
+A Complete Unknown,2024,7.3,"['Biography', 'Drama', 'Music']",141,"['James Mangold', 'Yesi Ramirez']",11563598,False,False
+Nickel Boys,2024,6.9,['Drama'],140,"['RaMell Ross', 'Victoria Thomas']",23055660,False,False
+I'm Still Here,2024,8.1,"['Biography', 'Drama', 'History']",137,"['Walter Salles', 'Leticia Naveira']",14961016,False,False
+In the Shadow of the Cypress,2023,7.0,"['Animation', 'Short', 'Drama', 'War']",20,"['Hossein Molayemi', 'Shirin Sohani']",28768883,False,True
+The Substance,2024,7.2,"['Drama', 'Horror', 'Sci-Fi']",139,"['Coralie Fargeat', 'Laure Cochener']",17526714,False,False
+Dune: Part Two,2024,8.4,"['Action', 'Adventure', 'Drama', 'Sci-Fi']",166,"['Denis Villeneuve', 'Francine Maisler']",15239678,False,False
+Beurk !,2024,6.7,"['Animation', 'Short', 'Family']",13,"['Loïc Espuche', 'Florian Delhormeau']",28356173,False,True
+Beautiful Men,2023,6.0,"['Animation', 'Short', 'Comedy', 'Drama']",19,['Nicolas Keppens'],30835281,False,True
+Soundtrack to a Coup d'Etat,2024,7.8,"['Documentary', 'Music']",150,['Johan Grimonprez'],14452174,False,False
+Magic Candies,2024,7.1,"['Animation', 'Short', 'Family', 'Fantasy']",20,['Daisuke Nishio'],31888603,False,True
+Wallace & Gromit: Vengeance Most Fowl,2024,7.5,"['Animation', 'Adventure', 'Comedy', 'Family', 'Sci-Fi']",82,"['Merlin Crossingham', 'Nick Park', 'Lucy Rands']",17163970,False,False
+Memoir of a Snail,2024,7.8,"['Animation', 'Drama']",95,"['Adam Elliot', 'Jane Norris']",23770030,False,False
+Sugarcane,2024,7.0,['Documentary'],107,"['Emily Kassie', 'Julian Brave NoiseCat']",30319854,False,False
+Flow,2024,7.9,"['Animation', 'Adventure', 'Family', 'Fantasy']",85,['Gints Zilbalodis'],4772188,False,False
+Anuja,2024,6.6,"['Short', 'Drama']",22,"['Adam J. Graves', 'Romil Modi']",27654431,False,True
+Better Man,2024,7.5,"['Biography', 'Fantasy', 'Music', 'Musical']",135,['Michael Gracey'],14260836,False,False
+The Last Ranger,2024,6.9,"['Short', 'Drama']",28,['Cindy Lee'],15802124,False,True
+Gladiator II,2024,6.5,"['Action', 'Adventure', 'Drama']",148,"['Ridley Scott', 'Kate Rhodes James']",9218128,False,False
+Kingdom of the Planet of the Apes,2024,6.8,"['Action', 'Adventure', 'Drama', 'Sci-Fi', 'Thriller']",145,['Wes Ball'],11389872,False,False
+The Brutalist,2024,7.2,['Drama'],201,['Brady Corbet'],8999762,False,False
+Wander to Wonder,2023,6.7,"['Animation', 'Short', 'Comedy', 'Thriller']",14,['Nina Gantz'],28768679,False,True
+Instruments of a Beating Heart,2024,7.0,"['Documentary', 'Short', 'Music']",23,['Ema Ryan Yamazaki'],32280470,False,True
+I'm Not a Robot,2023,7.1,"['Short', 'Comedy', 'Drama', 'Fantasy', 'Sci-Fi']",23,['Victoria Warmerdam'],19837932,False,True
+The Girl with the Needle,2024,7.5,"['Crime', 'Drama', 'History']",116,"['Magnus von Horn', 'Tanja Grunwald']",10236164,False,False
+Alien: Romulus,2024,7.1,"['Horror', 'Sci-Fi', 'Thriller']",119,['Fede Alvarez'],18412256,False,False
+"I am Ready, Warden",2024,6.7,"['Documentary', 'Short']",37,['Smriti Mundhra'],31556921,False,True
+Maria,2024,6.4,"['Biography', 'Drama', 'Music']",124,['Pablo Larraín'],22893404,False,False
+Death by Numbers,2024,6.6,"['Documentary', 'Short']",33,['Kim A. Snyder'],33385063,False,True
+Anora,2024,7.4,"['Comedy', 'Drama', 'Romance']",139,"['Sean Baker', 'Sean Baker']",28607951,False,False
+Sing Sing,2023,7.6,['Drama'],107,['Greg Kwedar'],28479262,False,False
+The Man Who Could Not Remain Silent,2024,7.3,"['Short', 'Drama', 'History']",14,"['Nebojsa Slijepcevic', 'Hana Hribar']",20519854,False,True
+Emilia Pérez,2024,5.3,"['Crime', 'Drama', 'Musical', 'Thriller']",132,['Jacques Audiard'],20221436,False,False
+The Six Triple Eight,2024,6.7,"['Drama', 'History', 'War']",127,"['Tyler Perry', 'Kim Coleman']",24458622,False,False
+The Seed of the Sacred Fig,2024,7.5,"['Crime', 'Drama', 'Thriller']",167,['Mohammad Rasoulof'],32178949,False,False
+Porcelain War,2024,7.1,"['Documentary', 'War']",87,"['Brendan Bellomo', 'Slava Leontyev']",30294282,False,False
+Inside Out 2,2024,7.5,"['Animation', 'Adventure', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Sport']",96,['Kelsey Mann'],22022452,False,False
+Black Box Diaries,2024,7.5,"['Documentary', 'Crime']",102,"['Shiori Itô', 'Rikiya Takano']",30227076,False,False
+No Other Land,2024,8.2,['Documentary'],92,"['Yuval Abraham', 'Basel Adra', 'Hamdan Ballal', 'Rachel Szor']",30953759,False,False
+September 5,2024,7.1,"['Drama', 'History', 'Thriller']",95,['Tim Fehlbaum'],28082769,False,False
+Wicked,2024,7.3,"['Fantasy', 'Musical', 'Romance']",160,['Jon M. Chu'],1262426,False,False
+A Different Man,2024,6.9,"['Drama', 'Thriller']",112,"['Aaron Schimberg', 'Maribeth Fox']",21097228,False,False
+Nosferatu,2024,7.1,"['Fantasy', 'Horror', 'Mystery']",132,"['Robert Eggers', 'Kharmel Cochrane']",5040012,False,False
+Incident,2023,7.6,"['Documentary', 'Short']",30,['Bill Morrison'],27990245,False,True
+The Apprentice,2024,7.1,"['Biography', 'Drama', 'History']",122,['Ali Abbasi'],8368368,False,False
+A Lien,2023,7.2,"['Short', 'Drama']",15,"['David Cutler-Kreutz', 'Sam Cutler-Kreutz']",27655666,False,True
+Elton John: Never Too Late,2024,6.6,"['Documentary', 'Biography', 'Music']",102,"['R.J. Cutler', 'David Furnish']",20316978,False,False
+Conclave,2024,7.4,"['Drama', 'Thriller']",120,['Edward Berger'],20215234,False,False
+The Only Girl in the Orchestra,2023,6.6,"['Documentary', 'Short', 'Music']",34,"[""Molly O'Brien""]",29497240,False,True
+A Real Pain,2024,7.0,"['Comedy', 'Drama']",90,"['Jesse Eisenberg', 'Jessica Kelly']",21823606,False,False
+The Wild Robot,2024,8.2,"['Animation', 'Adventure', 'Family', 'Sci-Fi']",102,"['Chris Sanders', 'Christi Soper']",29623480,False,False
+Island in Between,2023,6.2,"['Documentary', 'Short']",20,['S. Leo Chiang'],30523942,False,True
+To Kill a Tiger,2022,7.6,['Documentary'],128,['Nisha Pahuja'],21688772,False,False
+Killers of the Flower Moon,2023,7.5,"['Crime', 'Drama', 'History', 'Western']",206,"['Martin Scorsese', 'Ellen Lewis']",5537002,False,False
+Bobi Wine: The People's President,2022,7.1,['Documentary'],113,"['Moses Bwayo', 'Christopher Sharp']",21376900,False,False
+20 Days in Mariupol,2023,8.6,"['Documentary', 'War']",97,['Mstyslav Chernov'],24082438,False,False
+The Holdovers,2023,7.9,"['Comedy', 'Drama']",133,"['Alexander Payne', 'Susan Shopmaker']",14849194,False,False
+Past Lives,2023,7.8,"['Drama', 'Romance']",105,['Celine Song'],13238346,False,False
+War Is Over!,2023,6.4,"['Animation', 'Short', 'War']",11,['Dave Mullins'],29795707,False,True
+Poor Things,2023,7.8,"['Comedy', 'Drama', 'Romance', 'Sci-Fi']",141,"['Yorgos Lanthimos', 'Dixie Chassay']",14230458,False,False
+Barbie,2023,6.8,"['Adventure', 'Comedy', 'Fantasy']",114,['Greta Gerwig'],1517268,False,False
+American Symphony,2023,6.8,"['Documentary', 'Biography', 'Music']",104,['Matthew Heineman'],28865980,False,False
+Guardians of the Galaxy Vol. 3,2023,7.9,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Sci-Fi']",150,"['James Gunn', 'Sarah Finn']",6791350,False,False
+American Fiction,2023,7.5,"['Comedy', 'Drama']",117,"['Cord Jefferson', 'Jennifer Euston']",23561236,False,False
+The Zone of Interest,2023,7.3,"['Drama', 'History', 'War']",105,['Jonathan Glazer'],7160372,False,False
+The Last Repair Shop,2023,7.4,"['Documentary', 'Short', 'Music']",39,"['Kris Bowers', 'Ben Proudfoot']",29118186,False,True
+The Barber of Little Rock,2023,6.5,"['Documentary', 'Short']",35,"['John Hoffman', 'Christine Turner']",28627868,False,True
+The ABCs of Book Banning,2023,6.3,"['Documentary', 'Short']",27,"['Trish Adlesic', 'Nazenet Habtezghi', 'Sheila Nevins']",29361805,False,True
+The After,2023,6.2,"['Short', 'Drama']",18,"['Misan Harriman', 'Aisha Bywaters']",28532006,False,True
+Pachyderme,2022,7.0,"['Animation', 'Short', 'Drama']",11,['Stéphanie Clément'],20862526,False,True
+The Teachers' Lounge,2023,7.4,['Drama'],98,['Ilker Çatak'],26612950,False,False
+Indiana Jones and the Dial of Destiny,2023,6.5,"['Action', 'Adventure', 'Sci-Fi']",154,"['James Mangold', 'Nina Gold']",1462764,False,False
+Godzilla Minus One,2023,7.7,"['Action', 'Adventure', 'Drama', 'Horror', 'Sci-Fi']",124,"['Takashi Yamazaki', 'Tsuyoshi Sugino']",23289160,False,False
+Society of the Snow,2023,7.8,"['Adventure', 'Biography', 'Drama', 'History', 'Thriller']",144,['J.A. Bayona'],16277242,False,False
+Letter to a Pig,2022,6.5,"['Animation', 'Short']",17,['Tal Kantor'],10346066,False,True
+Knight of Fortune,2022,7.1,"['Short', 'Drama']",26,['Lasse Lyskjær Noer'],26600054,False,True
+Our Uniform,2023,6.7,"['Animation', 'Short']",7,['Yegane Moghaddam'],28058015,False,True
+May December,2023,6.7,"['Comedy', 'Drama']",117,"['Todd Haynes', 'Laura Rosenthal']",13651794,False,False
+Perfect Days,2023,7.9,['Drama'],124,"['Wim Wenders', 'Masunobu Boo Motokawa']",27503384,False,False
+Anatomy of a Fall,2023,7.6,"['Crime', 'Drama', 'Mystery', 'Thriller']",151,"['Justine Triet', 'Cynthia Arra']",17009710,False,False
+Oppenheimer,2023,8.2,"['Biography', 'Drama', 'History']",180,"['Christopher Nolan', 'John Papsidera']",15398776,False,False
+Napoleon,2023,6.3,"['Action', 'Adventure', 'Biography', 'Drama', 'History', 'War']",158,"['Ridley Scott', 'Kate Rhodes James']",13287846,False,False
+The Boy and the Heron,2023,7.3,"['Animation', 'Adventure', 'Drama', 'Fantasy']",124,['Hayao Miyazaki'],6587046,False,False
+Golda,2023,6.0,"['Biography', 'Drama', 'History', 'War']",100,"['Guy Nattiv', 'Alex Johnson']",14454876,False,False
+"Red, White and Blue",2023,7.2,"['Short', 'Drama']",23,['Nazrin Choudhury'],27759823,False,True
+The Wonderful Story of Henry Sugar,2023,7.4,"['Short', 'Adventure', 'Comedy', 'Drama']",40,['Wes Anderson'],16968450,False,True
+Robot Dreams,2023,7.6,"['Animation', 'Comedy', 'Drama', 'Family']",103,['Pablo Berger'],13429870,False,False
+Nimona,2023,7.5,"['Animation', 'Action', 'Adventure', 'Comedy', 'Drama', 'Family', 'Fantasy', 'Sci-Fi', 'Thriller']",101,"['Nick Bruno', 'Troy Quane']",19500164,False,False
+Rustin,2023,6.5,"['Biography', 'Drama', 'History']",106,['George C. Wolfe'],14160834,False,False
+Nai Nai & Wài Pó,2023,7.1,"['Documentary', 'Short', 'Comedy', 'Drama']",17,['Sean Wang'],26218316,False,True
+The Creator,2023,6.7,"['Action', 'Adventure', 'Drama', 'Sci-Fi', 'Thriller']",133,"['Gareth Edwards', 'Jina Jay']",11858890,False,False
+The Color Purple,2023,6.8,"['Drama', 'Musical']",141,['Blitz Bazawule'],1200263,False,False
+Nyad,2023,7.1,"['Biography', 'Drama', 'History', 'Sport']",121,"['Jimmy Chin', 'Elizabeth Chai Vasarhelyi', 'Avy Kaufman']",5302918,False,False
+Flamin' Hot,2023,6.8,"['Biography', 'Drama', 'History']",99,"['Eva Longoria', 'Carla Hool']",8105234,False,False
+Mission: Impossible - Dead Reckoning Part One,2023,7.6,"['Action', 'Adventure', 'Thriller']",163,"['Christopher McQuarrie', 'Mindy Marin']",9603212,False,False
+Elemental,2023,7.0,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Romance']",101,['Peter Sohn'],15789038,False,False
+The Eternal Memory,2023,7.4,['Documentary'],85,['Maite Alberdi'],24082488,False,False
+Maestro,2023,6.5,"['Biography', 'Drama', 'History', 'Music', 'Romance']",129,"['Bradley Cooper', 'Shayna Markowitz']",5535276,False,False
+Io Capitano,2023,7.6,"['Adventure', 'Drama']",121,['Matteo Garrone'],14225838,False,False
+Ninety-Five Senses,2022,7.5,"['Animation', 'Short', 'Drama']",14,"['Jared Hess', 'Jerusha Hess']",11020596,False,True
+El Conde,2023,6.3,"['Comedy', 'Fantasy', 'History', 'Horror']",110,"['Pablo Larraín', 'Eduardo Paxeco']",21113540,False,False
+Invincible,2022,7.1,"['Short', 'Drama']",30,"['Vincent René-Lortie', 'Victor Tremblay-Blouin']",22749100,False,True
+Spider-Man: Across the Spider-Verse,2023,8.5,"['Animation', 'Action', 'Adventure', 'Family', 'Fantasy', 'Sci-Fi']",140,"['Joaquim Dos Santos', 'Kemp Powers', 'Justin K. Thompson']",9362722,False,False
+Four Daughters,2023,7.4,['Documentary'],107,['Kaouther Ben Hania'],27502426,False,False

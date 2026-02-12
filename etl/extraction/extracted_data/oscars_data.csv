@@ -1,4 +1,124 @@
 Ceremony,Year,Class,CanonicalCategory,Category,NomId,Film,FilmId,Name,Nominees,NomineeIds,Winner,Detail,Note,Citation,MultifilmNomination,YearStart
+96,2023,Acting,ACTOR IN A LEADING ROLE,ACTOR IN A LEADING ROLE,an2043506,Maestro,tt5535276,Bradley Cooper,Bradley Cooper,nm0177896,,Leonard Bernstein,,,,2023
+96,2023,Acting,ACTOR IN A LEADING ROLE,ACTOR IN A LEADING ROLE,an2043507,Rustin,tt14160834,Colman Domingo,Colman Domingo,nm0231458,,Bayard Rustin,,,,2023
+96,2023,Acting,ACTOR IN A LEADING ROLE,ACTOR IN A LEADING ROLE,an2043505,The Holdovers,tt14849194,Paul Giamatti,Paul Giamatti,nm0316079,,Paul Hunham,,,,2023
+96,2023,Acting,ACTOR IN A LEADING ROLE,ACTOR IN A LEADING ROLE,an2043504,Oppenheimer,tt15398776,Cillian Murphy,Cillian Murphy,nm0614165,True,J. Robert Oppenheimer,,,,2023
+96,2023,Acting,ACTOR IN A LEADING ROLE,ACTOR IN A LEADING ROLE,an2043508,American Fiction,tt23561236,Jeffrey Wright,Jeffrey Wright,nm0942482,,Thelonious ‘Monk’ Ellison,,,,2023
+96,2023,Acting,ACTOR IN A SUPPORTING ROLE,ACTOR IN A SUPPORTING ROLE,an2043534,American Fiction,tt23561236,Sterling K. Brown,Sterling K. Brown,nm1250791,,Clifford Ellison,,,,2023
+96,2023,Acting,ACTOR IN A SUPPORTING ROLE,ACTOR IN A SUPPORTING ROLE,an2043533,Killers of the Flower Moon,tt5537002,Robert De Niro,Robert De Niro,nm0000134,,William Hale,,,,2023
+96,2023,Acting,ACTOR IN A SUPPORTING ROLE,ACTOR IN A SUPPORTING ROLE,an2043531,Oppenheimer,tt15398776,Robert Downey Jr.,Robert Downey Jr.,nm0000375,True,Lewis Strauss,,,,2023
+96,2023,Acting,ACTOR IN A SUPPORTING ROLE,ACTOR IN A SUPPORTING ROLE,an2043532,Barbie,tt1517268,Ryan Gosling,Ryan Gosling,nm0331516,,Ken,,,,2023
+96,2023,Acting,ACTOR IN A SUPPORTING ROLE,ACTOR IN A SUPPORTING ROLE,an2043536,Poor Things,tt14230458,Mark Ruffalo,Mark Ruffalo,nm0749263,,Duncan Wedderburn,,,,2023
+96,2023,Acting,ACTRESS IN A LEADING ROLE,ACTRESS IN A LEADING ROLE,an2043498,Nyad,tt5302918,Annette Bening,Annette Bening,nm0000906,,Diana Nyad,,,,2023
+96,2023,Acting,ACTRESS IN A LEADING ROLE,ACTRESS IN A LEADING ROLE,an2043493,Killers of the Flower Moon,tt5537002,Lily Gladstone,Lily Gladstone,nm4291409,,Mollie Burkhart,,,,2023
+96,2023,Acting,ACTRESS IN A LEADING ROLE,ACTRESS IN A LEADING ROLE,an2043497,Anatomy of a Fall,tt17009710,Sandra Hüller,Sandra Hüller,nm1197689,,Sandra,,,,2023
+96,2023,Acting,ACTRESS IN A LEADING ROLE,ACTRESS IN A LEADING ROLE,an2043495,Maestro,tt5535276,Carey Mulligan,Carey Mulligan,nm1659547,,Felicia Montealegre,,,,2023
+96,2023,Acting,ACTRESS IN A LEADING ROLE,ACTRESS IN A LEADING ROLE,an2043494,Poor Things,tt14230458,Emma Stone,Emma Stone,nm1297015,True,Bella Baxter,,,,2023
+96,2023,Acting,ACTRESS IN A SUPPORTING ROLE,ACTRESS IN A SUPPORTING ROLE,an2043515,Oppenheimer,tt15398776,Emily Blunt,Emily Blunt,nm1289434,,Kitty Oppenheimer,,,,2023
+96,2023,Acting,ACTRESS IN A SUPPORTING ROLE,ACTRESS IN A SUPPORTING ROLE,an2043514,The Color Purple,tt1200263,Danielle Brooks,Danielle Brooks,nm5335029,,Sofia,,,,2023
+96,2023,Acting,ACTRESS IN A SUPPORTING ROLE,ACTRESS IN A SUPPORTING ROLE,an2043526,Barbie,tt1517268,America Ferrera,America Ferrera,nm1065229,,Gloria,,,,2023
+96,2023,Acting,ACTRESS IN A SUPPORTING ROLE,ACTRESS IN A SUPPORTING ROLE,an2043516,Nyad,tt5302918,Jodie Foster,Jodie Foster,nm0000149,,Bonnie Stoll,,,,2023
+96,2023,Acting,ACTRESS IN A SUPPORTING ROLE,ACTRESS IN A SUPPORTING ROLE,an2043513,The Holdovers,tt14849194,Da'Vine Joy Randolph,Da'Vine Joy Randolph,nm5007768,True,Mary Lamb,,,,2023
+96,2023,Title,ANIMATED FEATURE FILM,ANIMATED FEATURE FILM,an2045987,The Boy and the Heron,tt6587046,Hayao Miyazaki and Toshio Suzuki,"Hayao Miyazaki, Toshio Suzuki","nm0594503,nm0840699",True,,,,,2023
+96,2023,Title,ANIMATED FEATURE FILM,ANIMATED FEATURE FILM,an2045988,Elemental,tt15789038,Peter Sohn and Denise Ream,"Peter Sohn, Denise Ream","nm0812307,nm0714066",,,,,,2023
+96,2023,Title,ANIMATED FEATURE FILM,ANIMATED FEATURE FILM,an2045990,Nimona,tt19500164,"Nick Bruno, Troy Quane, Karen Ryan and Julie Zackary","Nick Bruno, Troy Quane, Karen Ryan, Julie Zackary","nm2939767,nm0702863,nm2350901,nm1771554",,,,,,2023
+96,2023,Title,ANIMATED FEATURE FILM,ANIMATED FEATURE FILM,an2046066,Robot Dreams,tt13429870,"Pablo Berger, Ibon Cormenzana, Ignasi Estapé and Sandra Tapia Díaz","Pablo Berger, Ibon Cormenzana, Ignasi Estapé, Sandra Tapia Díaz","nm0074311,nm1028742,nm3882588,nm3609890",,,,,,2023
+96,2023,Title,ANIMATED FEATURE FILM,ANIMATED FEATURE FILM,an2045986,Spider-Man: Across the Spider-Verse,tt9362722,"Kemp Powers, Justin K. Thompson, Phil Lord, Christopher Miller and Amy Pascal","Kemp Powers, Justin K. Thompson, Phil Lord, Christopher Miller, Amy Pascal","nm5358492,nm1042511,nm0520488,nm0588087,nm1166871",,,,,,2023
+96,2023,Production,CINEMATOGRAPHY,CINEMATOGRAPHY,an2043582,El Conde,tt21113540,Edward Lachman,Edward Lachman,nm0005767,,,,,,2023
+96,2023,Production,CINEMATOGRAPHY,CINEMATOGRAPHY,an2043579,Killers of the Flower Moon,tt5537002,Rodrigo Prieto,Rodrigo Prieto,nm0006509,,,,,,2023
+96,2023,Production,CINEMATOGRAPHY,CINEMATOGRAPHY,an2043580,Maestro,tt5535276,Matthew Libatique,Matthew Libatique,nm0508732,,,,,,2023
+96,2023,Production,CINEMATOGRAPHY,CINEMATOGRAPHY,an2043578,Oppenheimer,tt15398776,Hoyte van Hoytema,Hoyte van Hoytema,nm0887227,True,,,,,2023
+96,2023,Production,CINEMATOGRAPHY,CINEMATOGRAPHY,an2043581,Poor Things,tt14230458,Robbie Ryan,Robbie Ryan,nm0752811,,,,,,2023
+96,2023,Production,COSTUME DESIGN,COSTUME DESIGN,an2043621,Barbie,tt1517268,Jacqueline Durran,Jacqueline Durran,nm0244330,,,,,,2023
+96,2023,Production,COSTUME DESIGN,COSTUME DESIGN,an2043625,Killers of the Flower Moon,tt5537002,Jacqueline West,Jacqueline West,nm0922113,,,,,,2023
+96,2023,Production,COSTUME DESIGN,COSTUME DESIGN,an2043624,Napoleon,tt13287846,Janty Yates and Dave Crossman,"Janty Yates, Dave Crossman","nm0946765,nm0189366",,,,,,2023
+96,2023,Production,COSTUME DESIGN,COSTUME DESIGN,an2043623,Oppenheimer,tt15398776,Ellen Mirojnick,Ellen Mirojnick,nm0592465,,,,,,2023
+96,2023,Production,COSTUME DESIGN,COSTUME DESIGN,an2043622,Poor Things,tt14230458,Holly Waddington,Holly Waddington,nm3052795,True,,,,,2023
+96,2023,Directing,DIRECTING,DIRECTING,an2043486,Anatomy of a Fall,tt17009710,Justine Triet,Justine Triet,nm2630323,,,,,,2023
+96,2023,Directing,DIRECTING,DIRECTING,an2043483,Killers of the Flower Moon,tt5537002,Martin Scorsese,Martin Scorsese,nm0000217,,,,,,2023
+96,2023,Directing,DIRECTING,DIRECTING,an2043479,Oppenheimer,tt15398776,Christopher Nolan,Christopher Nolan,nm0634240,True,,,,,2023
+96,2023,Directing,DIRECTING,DIRECTING,an2043482,Poor Things,tt14230458,Yorgos Lanthimos,Yorgos Lanthimos,nm0487166,,,,,,2023
+96,2023,Directing,DIRECTING,DIRECTING,an2043484,The Zone of Interest,tt7160372,Jonathan Glazer,Jonathan Glazer,nm0322242,,,,,,2023
+96,2023,Title,DOCUMENTARY (Feature),DOCUMENTARY FEATURE FILM,an2026442,Bobi Wine: The People's President,tt21376900,"Moses Bwayo, Christopher Sharp and John Battsek","Moses Bwayo, Christopher Sharp, John Battsek","nm8400181,nm14109806,nm0061557",,,,,,2023
+96,2023,Title,DOCUMENTARY (Feature),DOCUMENTARY FEATURE FILM,an2026444,The Eternal Memory,tt24082488,Maite Alberdi,Maite Alberdi,nm3073146,,,,,,2023
+96,2023,Title,DOCUMENTARY (Feature),DOCUMENTARY FEATURE FILM,an2026445,Four Daughters,tt27502426,Kaouther Ben Hania and Nadim Cheikhrouha,"Kaouther Ben Hania, Nadim Cheikhrouha","nm4141599,nm2329106",,,,,,2023
+96,2023,Title,DOCUMENTARY (Feature),DOCUMENTARY FEATURE FILM,an2026453,To Kill a Tiger,tt21688772,"Nisha Pahuja, Cornelia Principe and David Oppenheim","Nisha Pahuja, Cornelia Principe, David Oppenheim","nm1263934,nm0697759,nm2361303",,,,,,2023
+96,2023,Title,DOCUMENTARY (Feature),DOCUMENTARY FEATURE FILM,an2026454,20 Days in Mariupol,tt24082438,"Mstyslav Chernov, Michelle Mizner and Raney Aronson-Rath","Mstyslav Chernov, Michelle Mizner, Raney Aronson-Rath","nm13512939,nm2365390,nm1948067",True,,,,,2023
+96,2023,Title,DOCUMENTARY (Short Subject),DOCUMENTARY SHORT FILM,an2026484,The ABCs of Book Banning,tt29361805,Sheila Nevins and Trish Adlesic,"Sheila Nevins, Trish Adlesic","nm0627521,nm0012267",,,,,,2023
+96,2023,Title,DOCUMENTARY (Short Subject),DOCUMENTARY SHORT FILM,an2026485,The Barber of Little Rock,tt28627868,John Hoffman and Christine Turner,"John Hoffman, Christine Turner","nm0388968,nm1423114",,,,,,2023
+96,2023,Title,DOCUMENTARY (Short Subject),DOCUMENTARY SHORT FILM,an2026492,Island in Between,tt30523942,S. Leo Chiang and Jean Tsien,"S. Leo Chiang, Jean Tsien","nm0156981,nm0874994",,,,,,2023
+96,2023,Title,DOCUMENTARY (Short Subject),DOCUMENTARY SHORT FILM,an2026493,The Last Repair Shop,tt29118186,Ben Proudfoot and Kris Bowers,"Ben Proudfoot, Kris Bowers","nm3988897,nm3929283",True,,,,,2023
+96,2023,Title,DOCUMENTARY (Short Subject),DOCUMENTARY SHORT FILM,an2026495,Nai Nai & Wài Pó,tt26218316,Sean Wang and Sam Davis,"Sean Wang, Sam Davis","nm7648876,nm4085454",,,,,,2023
+96,2023,Production,FILM EDITING,FILM EDITING,an2043597,Anatomy of a Fall,tt17009710,Laurent Sénéchal,Laurent Sénéchal,nm1927930,,,,,,2023
+96,2023,Production,FILM EDITING,FILM EDITING,an2043596,The Holdovers,tt14849194,Kevin Tent,Kevin Tent,nm0855188,,,,,,2023
+96,2023,Production,FILM EDITING,FILM EDITING,an2043599,Killers of the Flower Moon,tt5537002,Thelma Schoonmaker,Thelma Schoonmaker,nm0774817,,,,,,2023
+96,2023,Production,FILM EDITING,FILM EDITING,an2043594,Oppenheimer,tt15398776,Jennifer Lame,Jennifer Lame,nm2352780,True,,,,,2023
+96,2023,Production,FILM EDITING,FILM EDITING,an2043598,Poor Things,tt14230458,Yorgos Mavropsaridis,Yorgos Mavropsaridis,nm0561430,,,,,,2023
+96,2023,Title,INTERNATIONAL FEATURE FILM,INTERNATIONAL FEATURE FILM,an2026506,Io Capitano,tt14225838,Italy,,,,,,,,2023
+96,2023,Title,INTERNATIONAL FEATURE FILM,INTERNATIONAL FEATURE FILM,an2026507,Perfect Days,tt27503384,Japan,,,,,,,,2023
+96,2023,Title,INTERNATIONAL FEATURE FILM,INTERNATIONAL FEATURE FILM,an2026510,Society of the Snow,tt16277242,Spain,,,,,,,,2023
+96,2023,Title,INTERNATIONAL FEATURE FILM,INTERNATIONAL FEATURE FILM,an2026503,The Teachers' Lounge,tt26612950,Germany,,,,,,,,2023
+96,2023,Title,INTERNATIONAL FEATURE FILM,INTERNATIONAL FEATURE FILM,an2026513,The Zone of Interest,tt7160372,United Kingdom,,,True,,,,,2023
+96,2023,Production,MAKEUP AND HAIRSTYLING,MAKEUP AND HAIRSTYLING,an2026516,Golda,tt14454876,"Karen Hartley Thomas, Suzi Battersby and Ashra Kelly-Blue","Karen Hartley Thomas, Suzi Battersby, Ashra Kelly-Blue","nm0366857,nm3038497,nm12307106",,,,,,2023
+96,2023,Production,MAKEUP AND HAIRSTYLING,MAKEUP AND HAIRSTYLING,an2026519,Maestro,tt5535276,"Kazu Hiro, Kay Georgiou and Lori McCoy-Bell","Kazu Hiro, Kay Georgiou, Lori McCoy-Bell","nm0875308,nm0313789,nm0566776",,,,,,2023
+96,2023,Production,MAKEUP AND HAIRSTYLING,MAKEUP AND HAIRSTYLING,an2026521,Oppenheimer,tt15398776,Luisa Abel,Luisa Abel,nm0008468,,,,,,2023
+96,2023,Production,MAKEUP AND HAIRSTYLING,MAKEUP AND HAIRSTYLING,an2026522,Poor Things,tt14230458,"Nadia Stacey, Mark Coulier and Josh Weston","Nadia Stacey, Mark Coulier, Josh Weston","nm2854751,nm0183418,nm2095782",True,,,,,2023
+96,2023,Production,MAKEUP AND HAIRSTYLING,MAKEUP AND HAIRSTYLING,an2026523,Society of the Snow,tt16277242,"Ana López-Puigcerver, David Martí and Montse Ribé","Ana López-Puigcerver, David Martí, Montse Ribé","nm0529913,nm0554480,nm1556767",,,,,,2023
+96,2023,Music,MUSIC (Original Score),MUSIC (Original Score),an2026524,American Fiction,tt23561236,Laura Karpman,Laura Karpman,nm0440017,,,,,,2023
+96,2023,Music,MUSIC (Original Score),MUSIC (Original Score),an2026531,Indiana Jones and the Dial of Destiny,tt1462764,John Williams,John Williams,nm0002354,,,,,,2023
+96,2023,Music,MUSIC (Original Score),MUSIC (Original Score),an2026532,Killers of the Flower Moon,tt5537002,Robbie Robertson,Robbie Robertson,nm0005371,,,,,,2023
+96,2023,Music,MUSIC (Original Score),MUSIC (Original Score),an2026533,Oppenheimer,tt15398776,Ludwig Göransson,Ludwig Göransson,nm3234869,True,,,,,2023
+96,2023,Music,MUSIC (Original Score),MUSIC (Original Score),an2026534,Poor Things,tt14230458,Jerskin Fendrix,Jerskin Fendrix,nm14930772,,,,,,2023
+96,2023,Music,MUSIC (Original Song),MUSIC (Original Song),an2026562,Flamin' Hot,tt8105234,Music and Lyric by Diane Warren,Diane Warren,nm0005534,,The Fire Inside,,,,2023
+96,2023,Music,MUSIC (Original Song),MUSIC (Original Song),an2026556,Barbie,tt1517268,Music and Lyric by Mark Ronson and Andrew Wyatt,"Mark Ronson, Andrew Wyatt","nm1053148,nm1961278",,I'm Just Ken,,,,2023
+96,2023,Music,MUSIC (Original Song),MUSIC (Original Song),an2026550,American Symphony,tt28865980,Music and Lyric by Jon Batiste and Dan Wilson,"Jon Batiste, Dan Wilson","nm4456022,nm0933239",,It Never Went Away,,,,2023
+96,2023,Music,MUSIC (Original Song),MUSIC (Original Song),an2026567,Killers of the Flower Moon,tt5537002,Music and Lyric by Scott George,Scott George,nm15238867,,Wahzhazhe (A Song For My People),,,,2023
+96,2023,Music,MUSIC (Original Song),MUSIC (Original Song),an2026557,Barbie,tt1517268,Music and Lyric by Billie Eilish and Finneas O'Connell,"Billie Eilish, Finneas O'Connell","nm8483808,nm3906552",True,What Was I Made For?,,,,2023
+96,2023,Title,BEST PICTURE,BEST PICTURE,an2043471,American Fiction,tt23561236,"Ben LeClair, Nikos Karamigios, Cord Jefferson and Jermaine Johnson, Producers","Ben LeClair, Nikos Karamigios, Cord Jefferson, Jermaine Johnson","nm1444110,nm5068841,nm6852255,nm3905822",,,,,,2023
+96,2023,Title,BEST PICTURE,BEST PICTURE,an2043467,Anatomy of a Fall,tt17009710,"Marie-Ange Luciani and David Thion, Producers","Marie-Ange Luciani, David Thion","nm4352455,nm0858196",,,,,,2023
+96,2023,Title,BEST PICTURE,BEST PICTURE,an2043462,Barbie,tt1517268,"David Heyman, Margot Robbie, Tom Ackerley and Robbie Brenner, Producers","David Heyman, Margot Robbie, Tom Ackerley, Robbie Brenner","nm0382268,nm3053338,nm3943537,nm0107509",,,,,,2023
+96,2023,Title,BEST PICTURE,BEST PICTURE,an2043465,The Holdovers,tt14849194,"Mark Johnson, Producer",Mark Johnson,nm0425741,,,,,,2023
+96,2023,Title,BEST PICTURE,BEST PICTURE,an2043463,Killers of the Flower Moon,tt5537002,"Dan Friedkin, Bradley Thomas, Martin Scorsese and Daniel Lupi, Producers","Dan Friedkin, Bradley Thomas, Martin Scorsese, Daniel Lupi","nm6679051,nm0858554,nm0000217,nm0526917",,,,,,2023
+96,2023,Title,BEST PICTURE,BEST PICTURE,an2043469,Maestro,tt5535276,"Bradley Cooper, Steven Spielberg, Fred Berner, Amy Durning and Kristie Macosko Krieger, Producers","Bradley Cooper, Steven Spielberg, Fred Berner, Amy Durning, Kristie Macosko Krieger","nm0177896,nm0000229,nm0076681,nm1570573,nm1069736",,,,,,2023
+96,2023,Title,BEST PICTURE,BEST PICTURE,an2043461,Oppenheimer,tt15398776,"Emma Thomas, Charles Roven and Christopher Nolan, Producers","Emma Thomas, Charles Roven, Christopher Nolan","nm0858799,nm0746273,nm0634240",True,,,,,2023
+96,2023,Title,BEST PICTURE,BEST PICTURE,an2043468,Past Lives,tt13238346,"David Hinojosa, Christine Vachon and Pamela Koffler, Producers","David Hinojosa, Christine Vachon, Pamela Koffler","nm3065267,nm0882927,nm0463025",,,,,,2023
+96,2023,Title,BEST PICTURE,BEST PICTURE,an2043464,Poor Things,tt14230458,"Ed Guiney, Andrew Lowe, Yorgos Lanthimos and Emma Stone, Producers","Ed Guiney, Andrew Lowe, Yorgos Lanthimos, Emma Stone","nm0347384,nm1103466,nm0487166,nm1297015",,,,,,2023
+96,2023,Title,BEST PICTURE,BEST PICTURE,an2043470,The Zone of Interest,tt7160372,"James Wilson, Producer",James Wilson,nm1034914,,,,,,2023
+96,2023,Production,ART DIRECTION,PRODUCTION DESIGN,an2043610,Barbie,tt1517268,Production Design: Sarah Greenwood; Set Decoration: Katie Spencer,"Sarah Greenwood, Katie Spencer","nm0339391,nm0818005",,,,,,2023
+96,2023,Production,ART DIRECTION,PRODUCTION DESIGN,an2043613,Killers of the Flower Moon,tt5537002,Production Design: Jack Fisk; Set Decoration: Adam Willis,"Jack Fisk, Adam Willis","nm0279926,nm1853964",,,,,,2023
+96,2023,Production,ART DIRECTION,PRODUCTION DESIGN,an2043618,Napoleon,tt13287846,Production Design: Arthur Max; Set Decoration: Elli Griff,"Arthur Max, Elli Griff","nm0561480,nm0341066",,,,,,2023
+96,2023,Production,ART DIRECTION,PRODUCTION DESIGN,an2043611,Oppenheimer,tt15398776,Production Design: Ruth De Jong; Set Decoration: Claire Kaufman,"Ruth De Jong, Claire Kaufman","nm1968338,nm0442114",,,,,,2023
+96,2023,Production,ART DIRECTION,PRODUCTION DESIGN,an2043612,Poor Things,tt14230458,Production Design: James Price and Shona Heath; Set Decoration: Zsuzsa Mihalek,"James Price, Shona Heath, Zsuzsa Mihalek","nm1483016,nm4257419,nm1386368",True,,,,,2023
+96,2023,Title,SHORT FILM (Animated),SHORT FILM (Animated),an2026608,Letter to a Pig,tt10346066,Tal Kantor and Amit R. Gicelter,"Tal Kantor, Amit R. Gicelter","nm7722734,nm1206834",,,,,,2023
+96,2023,Title,SHORT FILM (Animated),SHORT FILM (Animated),an2026609,Ninety-Five Senses,tt11020596,Jerusha Hess and Jared Hess,"Jerusha Hess, Jared Hess","nm1415801,nm0381478",,,,,,2023
+96,2023,Title,SHORT FILM (Animated),SHORT FILM (Animated),an2026611,Our Uniform,tt28058015,Yegane Moghaddam,Yegane Moghaddam,nm10057416,,,,,,2023
+96,2023,Title,SHORT FILM (Animated),SHORT FILM (Animated),an2026612,Pachyderme,tt20862526,Stéphanie Clément and Marc Rius,"Stéphanie Clément, Marc Rius","nm13730667,nm12877825",,,,,,2023
+96,2023,Title,SHORT FILM (Animated),SHORT FILM (Animated),an2026618,WAR IS OVER! Inspired by the Music of John & Yoko,tt29795707,Dave Mullins and Brad Booker,"Dave Mullins, Brad Booker","nm0612391,nm0095374",True,,,,,2023
+96,2023,Title,SHORT FILM (Live Action),SHORT FILM (Live Action),an2026620,The After,tt28532006,Misan Harriman and Nicky Bentham,"Misan Harriman, Nicky Bentham","nm12325486,nm1726830",,,,,,2023
+96,2023,Title,SHORT FILM (Live Action),SHORT FILM (Live Action),an2045999,Invincible,tt22749100,Vincent René-Lortie and Samuel Caron,"Vincent René-Lortie, Samuel Caron","nm6118227,nm9108328",,,,,,2023
+96,2023,Title,SHORT FILM (Live Action),SHORT FILM (Live Action),an2026629,Knight of Fortune,tt26600054,Lasse Lyskjær Noer and Christian Norlyk,"Lasse Lyskjær Noer, Christian Norlyk","nm10210418,nm10210414",,,,,,2023
+96,2023,Title,SHORT FILM (Live Action),SHORT FILM (Live Action),an2026631,"Red, White and Blue",tt27759823,Nazrin Choudhury and Sara McFarlane,"Nazrin Choudhury, Sara McFarlane","nm1135653,nm10626793",,,,,,2023
+96,2023,Title,SHORT FILM (Live Action),SHORT FILM (Live Action),an2026644,The Wonderful Story of Henry Sugar,tt16968450,Wes Anderson and Steven Rales,"Wes Anderson, Steven Rales","nm0027572,nm2262509",True,,,,,2023
+96,2023,Production,SOUND MIXING,SOUND,an2026648,The Creator,tt11858890,"Ian Voigt, Erik Aadahl, Ethan Van der Ryn, Tom Ozanich and Dean Zupancic","Ian Voigt, Erik Aadahl, Ethan Van der Ryn, Tom Ozanich, Dean Zupancic","nm0901189,nm0007321,nm0886399,nm0654696,nm0958711",,,,,,2023
+96,2023,Production,SOUND MIXING,SOUND,an2026652,Maestro,tt5535276,"Steven A. Morrow, Richard King, Jason Ruder, Tom Ozanich and Dean Zupancic","Steven A. Morrow, Richard King, Jason Ruder, Tom Ozanich, Dean Zupancic","nm0607551,nm0455185,nm1720819,nm0654696,nm0958711",,,,,,2023
+96,2023,Production,SOUND MIXING,SOUND,an2026653,Mission: Impossible - Dead Reckoning Part One,tt9603212,"Chris Munro, James H. Mather, Chris Burdon and Mark Taylor","Chris Munro, James H. Mather, Chris Burdon, Mark Taylor","nm0613101,nm0558450,nm0121006,nm0852837",,,,,,2023
+96,2023,Production,SOUND MIXING,SOUND,an2026656,Oppenheimer,tt15398776,"Willie Burton, Richard King, Gary A. Rizzo and Kevin O'Connell","Willie Burton, Richard King, Gary A. Rizzo, Kevin O'Connell","nm0123770,nm0455185,nm0729886,nm0640114",,,,,,2023
+96,2023,Production,SOUND MIXING,SOUND,an2026657,The Zone of Interest,tt7160372,Tarn Willers and Johnnie Burn,"Tarn Willers, Johnnie Burn","nm1353680,nm1908855",True,,,,,2023
+96,2023,Production,VISUAL EFFECTS,VISUAL EFFECTS,an2026658,The Creator,tt11858890,"Jay Cooper, Ian Comley, Andrew Roberts and Neil Corbould","Jay Cooper, Ian Comley, Andrew Roberts, Neil Corbould","nm0178134,nm2026173,nm1209102,nm0179273",,,,,,2023
+96,2023,Production,VISUAL EFFECTS,VISUAL EFFECTS,an2026660,Godzilla Minus One,tt23289160,"Takashi Yamazaki, Kiyoko Shibuya, Masaki Takahashi and Tatsuji Nojima","Takashi Yamazaki, Kiyoko Shibuya, Masaki Takahashi, Tatsuji Nojima","nm0945724,nm2181714,nm15597114,nm10213275",True,,,,,2023
+96,2023,Production,VISUAL EFFECTS,VISUAL EFFECTS,an2026661,Guardians of the Galaxy Vol. 3,tt6791350,"Stephane Ceretti, Alexis Wajsbrot, Guy Williams and Theo Bialek","Stephane Ceretti, Alexis Wajsbrot, Guy Williams, Theo Bialek","nm0148547,nm2528062,nm1401413,nm1322273",,,,,,2023
+96,2023,Production,VISUAL EFFECTS,VISUAL EFFECTS,an2026663,Mission: Impossible - Dead Reckoning Part One,tt9603212,"Alex Wuttke, Simone Coco, Jeff Sutherland and Neil Corbould","Alex Wuttke, Simone Coco, Jeff Sutherland, Neil Corbould","nm1239209,nm3719408,nm0840112,nm0179273",,,,,,2023
+96,2023,Production,VISUAL EFFECTS,VISUAL EFFECTS,an2026664,Napoleon,tt13287846,"Charley Henley, Luc-Ewen Martin-Fenouillet, Simone Coco and Neil Corbould","Charley Henley, Luc-Ewen Martin-Fenouillet, Simone Coco, Neil Corbould","nm0377111,nm4808108,nm3719408,nm0179273",,,,,,2023
+96,2023,Writing,WRITING (Adapted Screenplay),WRITING (Adapted Screenplay),an2043542,American Fiction,tt23561236,Written for the screen by Cord Jefferson,Cord Jefferson,nm6852255,True,,,,,2023
+96,2023,Writing,WRITING (Adapted Screenplay),WRITING (Adapted Screenplay),an2043540,Barbie,tt1517268,Written by Greta Gerwig & Noah Baumbach,"Greta Gerwig, Noah Baumbach","nm1950086,nm0000876",,,,,,2023
+96,2023,Writing,WRITING (Adapted Screenplay),WRITING (Adapted Screenplay),an2043541,Oppenheimer,tt15398776,Written for the screen by Christopher Nolan,Christopher Nolan,nm0634240,,,,,,2023
+96,2023,Writing,WRITING (Adapted Screenplay),WRITING (Adapted Screenplay),an2043543,Poor Things,tt14230458,Screenplay by Tony McNamara,Tony McNamara,nm1110111,,,,,,2023
+96,2023,Writing,WRITING (Adapted Screenplay),WRITING (Adapted Screenplay),an2043546,The Zone of Interest,tt7160372,Written by Jonathan Glazer,Jonathan Glazer,nm0322242,,,,,,2023
+96,2023,Writing,WRITING (Original Screenplay),WRITING (Original Screenplay),an2043565,Anatomy of a Fall,tt17009710,Screenplay - Justine Triet and Arthur Harari,"Screenplay - Justine Triet, Arthur Harari","nm2630323,nm1932959",True,,,,,2023
+96,2023,Writing,WRITING (Original Screenplay),WRITING (Original Screenplay),an2043566,The Holdovers,tt14849194,Written by David Hemingson,David Hemingson,nm0376003,,,,,,2023
+96,2023,Writing,WRITING (Original Screenplay),WRITING (Original Screenplay),an2043570,Maestro,tt5535276,Written by Bradley Cooper & Josh Singer,"Bradley Cooper, Josh Singer","nm0177896,nm1802857",,,,,,2023
+96,2023,Writing,WRITING (Original Screenplay),WRITING (Original Screenplay),an2043567,May December,tt13651794,Screenplay by Samy Burch; Story by Samy Burch & Alex Mechanik,"Samy Burch, Alex Mechanik","nm2092552,nm2553112",,,,,,2023
+96,2023,Writing,WRITING (Original Screenplay),WRITING (Original Screenplay),an2043568,Past Lives,tt13238346,Written by Celine Song,Celine Song,nm10227660,,,,,,2023
 97,2024,Acting,ACTOR IN A LEADING ROLE,ACTOR IN A LEADING ROLE,fake_nomid012,The Brutalist,tt8999762,Adrien Brody,Adrien Brody,nm0004778,True,László Tóth,,,,2024
 97,2024,Acting,ACTOR IN A LEADING ROLE,ACTOR IN A LEADING ROLE,fake_nomid010,A Complete Unknown,tt11563598,Timothée Chalamet,Timothée Chalamet,nm3154303,,Bob Dylan,,,,2024
 97,2024,Acting,ACTOR IN A LEADING ROLE,ACTOR IN A LEADING ROLE,fake_nomid013,Sing Sing,tt28479262,Colman Domingo,Colman Domingo,nm0231458,,Divine G,,,,2024
