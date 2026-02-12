@@ -2,3 +2,4 @@ __pycache__
 executed_notebooks/
 .DS_Store
 venv/
+config.py
