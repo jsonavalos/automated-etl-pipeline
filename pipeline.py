@@ -37,4 +37,4 @@ for notebook in notebooks_to_run:
         print(f'✓ Success\n')
     except Exception as e:
         print(f"✗ Error: {e}\n")
-        break
+        sys.exit(1) # Script failed
