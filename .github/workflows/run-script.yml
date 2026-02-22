@@ -25,3 +25,7 @@ jobs:
       - name: Run Python script
         run: python pipeline.py
 
+      - name: Send failure notification
+        if: failure()
+        run: |
+          echo "Pipeline failed!"
